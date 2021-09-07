@@ -8,4 +8,4 @@ require (
 )
 
 // Only works in a dockerfile!
-replace github.com/weaveworks/weave-gitops v0.2.4 => /go/src/github.com/weaveworks/weave-gitops
+replace github.com/weaveworks/weave-gitops => /go/src/github.com/weaveworks/weave-gitops
