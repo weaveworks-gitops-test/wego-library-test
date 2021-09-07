@@ -1,0 +1,29 @@
+{
+  "name": "wego-wrapper-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve --port 7890 ui/index.html"
+  },
+  "dependencies": {
+    "parcel": "2.0.0-beta.3.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-is": "16.8.0",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.3.0",
+    "@weaveworks/weave-gitops": "0.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpellizzari/wego-wrapper-demo.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jpellizzari/wego-wrapper-demo/issues"
+  },
+  "homepage": "https://github.com/jpellizzari/wego-wrapper-demo#readme",
+  "description": ""
+}
