@@ -1,4 +1,4 @@
-module github.com/jpellizzari/wego-wrapper-demo
+module github.com/weaveworks-gitops-test/wego-library-test
 
 go 1.16
 
