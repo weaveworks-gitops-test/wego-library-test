@@ -1,9 +1,9 @@
 {
   "name": "wego-wrapper-demo",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "build": "parcel build ui/index.html",
     "start": "parcel serve --port 7890 ui/index.html"
   },
   "dependencies": {
