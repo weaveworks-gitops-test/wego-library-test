@@ -7,7 +7,7 @@
     "start": "parcel serve --port 7890 ui/index.html"
   },
   "dependencies": {
-    "@weaveworks/weave-gitops": "0.0.4",
+    "@weaveworks/weave-gitops": "0.2.5",
     "parcel": "2.0.0-beta.3.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
