@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/sirupsen/logrus v1.7.0
-	github.com/weaveworks/weave-gitops v0.2.4
+	github.com/weaveworks/weave-gitops v0.2.5
 )
 
 // Only works in a dockerfile!
